@@ -255,6 +255,8 @@ Through this training repository I learned:
 * Project Structuring
 * Deployment Workflow
 
+  ->deplyed link-https://blog-app-pink-one-10.vercel.app/
+
 ---
 
 
