@@ -259,4 +259,4 @@ Through this training repository I learned:
 
 ---
 
-
+deployed link-> https://blog-app-pink-one-10.vercel.app/

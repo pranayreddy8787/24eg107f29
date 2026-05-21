@@ -12,7 +12,10 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: ["https://24-eg-109-a56.vercel.app"],
+  origin: [
+    "https://24-eg-109-a56.vercel.app",
+    "https://24eg107f29-u5k5.vercel.app"
+  ],
   credentials: true
 }));
 
